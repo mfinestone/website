@@ -3,7 +3,7 @@
 
 ### Rewards
 
-| **Project ** | **Orderbook** | **Reward** |
+| **Project** | **Orderbook** | **Reward** |
 | :--- | :--- | ---: |
 MakerDAO | DAI/USDT | 20,000 LRC|
 Circle | USDC/USDT | 20,000 LRC|
