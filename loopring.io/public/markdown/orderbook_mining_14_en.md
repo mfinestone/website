@@ -5,8 +5,8 @@
 
 | **Project** | **Orderbook** | **Reward** |
 | :--- | :--- | ---: |
-MakerDAO | DAI/USDT | 20,000 LRC|
-Circle | USDC/USDT | 20,000 LRC|
+MakerDAO/Tether | DAI/USDT | 20,000 LRC|
+Circle/Tether | USDC/USDT | 20,000 LRC|
 Vesper | VSP/ETH | 1,300 VSP|
 
 ### Rules
