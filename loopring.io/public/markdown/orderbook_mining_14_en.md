@@ -3,11 +3,11 @@
 
 ### Rewards
 
-| **Orderbook** | **Reward** |
-| :--- | ---: |
-| DAI/USDT | 20,000 LRC|
-| USDC/USDT | 20,000 LRC|
-| VSP/ETH | 1,300 VSP|
+| **Project ** | **Orderbook** | **Reward** |
+| :--- | :--- | ---: |
+MakerDAO | DAI/USDT | 20,000 LRC|
+Circle | USDC/USDT | 20,000 LRC|
+Vesper | VSP/ETH | 1,300 VSP|
 
 ### Rules
 
